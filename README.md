@@ -33,13 +33,20 @@ The app is deployed here:
    
 📂 Project Structure
 Code
+
+
 ford-mpg-prediction/
 │── app.py               # Main Streamlit app
 │── model.pkl            # Trained ML model
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
 │── data/                # Dataset used for training
+
+
+
 📊 Example Inputs
+
+
 Horsepower
 
 Weight
@@ -48,13 +55,16 @@ year
 
 
 🌐 Deployment
+
+
 The app is deployed using Streamlit Cloud.
 You can access it directly here.  https://usergauravpandey-ford-car-mpg-prediction-app-sbyekw.streamlit.app/
 
 🙌 Acknowledgements
+
+
 Dataset inspired by classic Auto MPG dataset
 
 Built with ❤️ by Gaurav Pandey
 
-Model Year
 
